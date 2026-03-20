@@ -50,7 +50,7 @@ ORDER BY total_profit;
 
 📊 Dashboard
 
-![Sales & Profit Dashboard](Superstore Sales Project /sales_profit_dashboard.png)
+![Sales & Profit Dashboard](dashboard/sales_profit_dashboard.png)
 
 🚀 Project Highlights
 
