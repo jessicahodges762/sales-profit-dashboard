@@ -51,8 +51,9 @@ ORDER BY total_profit;
 📊 Dashboard
 
 🚀 Project Highlights
-Built an executive-style dashboard to communicate business performance
 
-Identified loss-making segments despite strong revenue
+-Built an executive-style dashboard to communicate business performance
 
-Applied data storytelling principles to highlight actionable insights
+-Identified loss-making segments despite strong revenue
+
+-Applied data storytelling principles to highlight actionable insights
