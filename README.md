@@ -6,7 +6,6 @@ This project analyzes sales and profitability using the Superstore dataset to id
 🔍 Overview
 
 The goal of this project was to explore business performance across multiple dimensions, including time, product categories, and profitability, and present findings through an executive-style dashboard.
-
 The analysis highlights areas where high revenue does not necessarily translate to profit, providing insight into potential pricing or cost inefficiencies.
 
 📈 Key Metrics
@@ -22,9 +21,7 @@ The analysis highlights areas where high revenue does not necessarily translate 
 🚨 Key Insights
 
 The Tables sub-category generated over $200K in sales but resulted in a loss of $17.7K, indicating potential issues with pricing or discounting strategies.
-
 While higher discounts are associated with lower profitability in some cases, the relationship is not consistent across all categories, suggesting additional cost factors may be involved.
-
 Sales and profit both show an overall upward trend over time, though profit exhibits greater volatility.
 
 🛠️ Tools Used
@@ -38,11 +35,8 @@ Sales and profit both show an overall upward trend over time, though profit exhi
   🧠 SQL Analysis
 
 Key queries were used to:
-
 Aggregate total sales and profit
-
 Identify top and bottom performing sub-categories
-
 Analyze the relationship between discount and profitability
 
 Example:
@@ -57,7 +51,6 @@ ORDER BY total_profit;
 📊 Dashboard
 
 🚀 Project Highlights
-
 Built an executive-style dashboard to communicate business performance
 
 Identified loss-making segments despite strong revenue
