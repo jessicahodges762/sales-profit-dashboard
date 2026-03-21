@@ -58,6 +58,8 @@ ORDER BY total_profit;
 
 ![Dashboard](sales_profit_dashboard.png)
 
+https://public.tableau.com/views/superstore_sales_dashboard_17740989987200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 🚀 Project Highlights
 
 - Built an executive-style dashboard to communicate business performance
