@@ -1,4 +1,4 @@
-# sales-profit-dashboard
+# sales-profit-analysis-dashboard
 📊 Sales & Profit Performance Dashboard
 
 This project analyzes sales and profitability using the Superstore dataset to identify key revenue drivers and uncover loss-making product segments.
@@ -7,6 +7,12 @@ This project analyzes sales and profitability using the Superstore dataset to id
 
 The goal of this project was to explore business performance across multiple dimensions, including time, product categories, and profitability, and present findings through an executive-style dashboard.
 The analysis highlights areas where high revenue does not necessarily translate to profit, providing insight into potential pricing or cost inefficiencies.
+
+📂 Data Source
+
+This project uses the **Superstore Sales dataset**, a widely used sample dataset for practicing business intelligence and analytics workflows. The dataset contains order-level transactional data including sales, profit, discounts, product categories, and customer information.
+
+Source: Tableau Sample Data – Superstore Dataset
 
 📈 Key Metrics
 
